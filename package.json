@@ -1,0 +1,15 @@
+{
+  "name": "chat-example",
+  "version": "1.0.0",
+  "description": "creating web chat on socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nick bouldien",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "socket.io": "^1.7.3"
+  }
+}
